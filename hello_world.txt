@@ -1,0 +1,3 @@
+Hello world. I think that I might have messed up some stuff
+in Git but hopefully I will be able to fix it.
+Also I should look into using vim.
